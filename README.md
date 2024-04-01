@@ -1,4 +1,5 @@
 # I PUSH MY DSA PRACTICE CODE HERE
+_**This repo is the updated version of coding-preparation!!_
 
 ## Overview of concepts:
 - Array
@@ -13,6 +14,6 @@
     - OOP
     - Bitwise operations
     - Functions
-    - 
+* 
 
-### To be continued...
+#### To be continued...

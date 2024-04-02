@@ -3,6 +3,7 @@ _**This repo is the updated version of coding-preparation!!_
 
 ## Overview of concepts:
 - Array
+    - 
     - Reverse
     - Two sum
     - Max and Min
@@ -14,6 +15,14 @@ _**This repo is the updated version of coding-preparation!!_
     - OOP
     - Bitwise operations
     - Functions
-* 
+- Linked List
+    - 
+    - Print list
+    - Append
+    - Prepend
+    - Insert
+    - Delete (from end and start)
+    - Get, Set
+    - Reverse
 
 #### To be continued...

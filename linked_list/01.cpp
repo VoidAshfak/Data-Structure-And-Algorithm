@@ -42,6 +42,7 @@ int main() {
                 cout << temp->value << " " << endl;
                 temp = temp->next;
             }
+            cout << head->next->value;
         }
 
         void getHead() {
@@ -222,8 +223,9 @@ int main() {
 
     myLinkedList->printList();
 
-    myLinkedList->reverse();
+    // myLinkedList->reverse();
 
-    myLinkedList->printList();
+    // myLinkedList->printList();
+
 
 }

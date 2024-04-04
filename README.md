@@ -15,7 +15,7 @@ _**This repo is the updated version of coding-preparation!!_
     - OOP
     - Bitwise operations
     - Functions
-- Linked List
+- Linked List and Doubly Linked List
     - 
     - Print list
     - Append
@@ -24,5 +24,19 @@ _**This repo is the updated version of coding-preparation!!_
     - Delete (from end and start)
     - Get, Set
     - Reverse
+
+- Stack
+    - 
+    - 
+- Queue
+    - 
+    - 
+
+- Tree
+    - 
+    - BST
+        - Insert
+        - Delete
+        - 
 
 #### To be continued...
